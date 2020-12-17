@@ -10,6 +10,7 @@
     <version>1.0</version>
     <modules>
         <module>rxjava3</module>
+        <module>jira</module>
     </modules>
 
     <properties>
