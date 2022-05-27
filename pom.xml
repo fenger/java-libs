@@ -11,6 +11,7 @@
     <modules>
         <module>rxjava3</module>
         <module>jira</module>
+        <module>elasticsearch</module>
     </modules>
 
     <properties>
